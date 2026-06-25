@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=220&section=header&text=Md%20Asadullah%20Abbasi&fontSize=55&fontColor=00C2FF&fontAlignY=38&desc=Cybersecurity%20Student%20|%20GRC%20|%20VAPT%20|%20Cloud%20Security&descAlignY=60&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=220&section=header&text=Md%20Asadullah%20Abbasi&fontSize=55&fontColor=00C2FF&fontAlignY=38&desc=Application%20Security%20|%20Web%20Security%20|%20API%20Security&descAlignY=60&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Governance+Risk+%26+Compliance+(GRC);VAPT+%7C+Cloud+Security;TryHackMe+%7C+HackTheBox;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Application+Security+Engineer+in+Progress;Web+Application+Security;API+Security+%7C+OWASP+Top+10;Secure+Code+Review;Python+Security+Automation;Always+Learning+Always+Building"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=as4dmin&color=00C2FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/as4dmin?style=flat-square&color=00C2FF)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C2FF)
 
 </div>
 
@@ -16,132 +15,151 @@
 # `$ whoami`
 
 ```yaml
-┌────────────────────────────────────────────────────────────┐
-│                 MD ASADULLAH ABBASI                        │
-│                                                            │
-│ role        : Cyber Security Student                       │
-│ specialization : GRC | VAPT | Cloud Security               │
-│ education   : B.Tech CSE (Cyber Security)                  │
-│ college     : Haldia Institute of Technology               │
-│ semester    : 6th Semester                                 │
-│ location    : Bihar, India 🇮🇳                              │
-│                                                            │
-│ interests:                                                │
-│   • Governance Risk & Compliance                           │
-│   • Penetration Testing                                    │
-│   • Cloud Security                                         │
-│   • SOC & Incident Response                                │
-│                                                            │
-│ preparing : Security Engineer Roles                        │
-│ learning  : ISO 27001 • NIST • SOC2 • AWS • GRC            │
-│ status    : Open for Internships                           │
-└────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                 MD ASADULLAH ABBASI                          │
+│                                                              │
+│ role        : Cyber Security Student                         │
+│ specialization : Application Security                        │
+│ education   : B.Tech CSE (Cyber Security)                    │
+│ college     : Haldia Institute of Technology                 │
+│ semester    : 8th Semester                                   │
+│ location    : Bihar, India 🇮🇳                                │
+│                                                              │
+│ interests:                                                   │
+│   • Application Security                                     │
+│   • Web Application Penetration Testing                      │
+│   • API Security                                             │
+│   • Secure Code Review                                       │
+│   • DevSecOps                                                │
+│                                                              │
+│ learning :                                                   │
+│   • OWASP Top 10                                             │
+│   • OWASP API Security                                       │
+│   • Secure SDLC                                              │
+│   • Threat Modeling                                          │
+│   • Cloud Security                                           │
+│                                                              │
+│ status : Open to Application Security Roles                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `$ current_status`
+# `$ current_focus`
 
-- 🔐 Learning Governance, Risk & Compliance (GRC)
-- ☁️ Exploring Cloud Security & AWS Security
-- 🛡️ Practicing Web Application Penetration Testing
-- 🏆 Top 10 Performer — ACS Internship Program
-- 🎯 Smart India Hackathon 2024 Grand Finalist
-- 🚩 Active on TryHackMe & HackTheBox
-- 📚 Continuously improving Security Engineering skills
+- 🔐 Learning Application Security
+- 🌐 Practicing Web & API Security
+- 🚩 Solving PortSwigger Web Security Academy Labs
+- 🛡️ Exploring Secure Code Review
+- ⚡ Learning DevSecOps Fundamentals
+- ☁️ Building Cloud Security Knowledge
+- 🐍 Developing Python Security Automation Tools
 
 ---
 
-# `$ skills`
+# `$ tech_stack`
 
 <div align="center">
 
-## 🔴 Security
+## 🔴 Application Security
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top10-black?style=for-the-badge&logo=owasp)
-![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP API](https://img.shields.io/badge/OWASP%20API-000000?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-111111?style=for-the-badge)
+
+---
+
+## 🟡 Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 🟢 GRC
+## 🔵 Programming
 
-![ISO27001](https://img.shields.io/badge/ISO%2027001-blue?style=for-the-badge)
-![NIST](https://img.shields.io/badge/NIST-CSF-blue?style=for-the-badge)
-![SOC2](https://img.shields.io/badge/SOC2-black?style=for-the-badge)
-![PCI DSS](https://img.shields.io/badge/PCI%20DSS-red?style=for-the-badge)
-![GDPR](https://img.shields.io/badge/GDPR-blue?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk%20Management-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ---
 
-## 🔵 Development
+## ☁️ DevSecOps & Cloud
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 </div>
 
 ---
 
-# `$ projects`
+# `$ featured_projects`
 
 <details>
-
 <summary><b>🔐 Vulnify</b></summary>
 
 A vulnerable web application built for learning and practicing Web Application Security.
 
-- Authentication flaws
+### Features
+
 - SQL Injection
-- XSS
+- Cross-Site Scripting (XSS)
 - CSRF
+- Authentication Vulnerabilities
 - OWASP Top 10
-- Secure coding practices
+- Secure Coding Demonstrations
 
 </details>
 
+---
+
 <details>
+<summary><b>🔒 SSL/TLS Certificate Monitoring System</b></summary>
 
-<summary><b>☁️ SSL/TLS Certificate Monitoring System</b></summary>
+Python-based security tool for monitoring SSL certificate expiry.
 
-Python-based monitoring tool that continuously tracks SSL certificates.
+### Features
 
-- Expiry monitoring
+- Certificate Expiry Detection
+- Domain Monitoring
 - Email Alerts
-- Domain Scanner
 - Automation
+- Reporting
 
 </details>
 
+---
+
 <details>
+<summary><b>🌦 Weather App</b></summary>
 
-<summary><b>📱 Weather App</b></summary>
-
-Flutter application consuming weather APIs.
+Flutter application using REST APIs.
 
 - Flutter
 - Firebase
-- REST API
+- REST APIs
 - Responsive UI
 
 </details>
 
-<details>
+---
 
+<details>
 <summary><b>🎮 Word Huddle Game</b></summary>
 
-A Flutter multiplayer word puzzle game.
+A multiplayer Flutter word puzzle game.
 
-- Clean UI
+- Firebase
+- Responsive Design
 - State Management
-- Firebase Integration
 
 </details>
 
@@ -149,17 +167,17 @@ A Flutter multiplayer word puzzle game.
 
 # `$ achievements`
 
-🏆 ACS Internship Program — Top 10 Performer
+🏆 Top 10 Performer — ACS Internship Program
 
-🥇 Smart India Hackathon 2024 Grand Finalist
+🏅 Smart India Hackathon Grand Finalist
 
-🎓 Indo-Dutch Cyber Security School Graduate
+🎓 Indo-Dutch Cyber Security School
 
-🎖️ Prodigy InfoTech Cyber Security Internship
+🛡️ Prodigy InfoTech Cyber Security Internship
 
-🚩 TryHackMe Learner
+🚩 Active on TryHackMe
 
-💻 HackTheBox Practitioner
+💻 Active on HackTheBox
 
 ---
 
@@ -167,21 +185,21 @@ A Flutter multiplayer word puzzle game.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=as4dmin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4dmin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=as4dmin&hide_border=true&background=0d1117&ring=00C2FF&stroke=00C2FF&currStreakLabel=00C2FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&currStreakLabel=00C2FF"/>
 
 </div>
 
 ---
 
-# `$ contribution_graph`
+# `$ activity`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=as4dmin&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -192,15 +210,16 @@ A Flutter multiplayer word puzzle game.
 ```bash
 ✔ ACS Internship Program
 ✔ Indo-Dutch Cyber Security School
-✔ Prodigy InfoTech Cyber Security Internship
+✔ Prodigy InfoTech Internship
 ✔ SQL (Udemy)
-✔ TryHackMe
-✔ HackTheBox
-📖 Learning:
-    ISO 27001
-    NIST CSF
-    SOC2
-    AWS Cloud Security
+
+Currently Learning
+
+• Application Security
+• Secure Code Review
+• DevSecOps
+• Cloud Security
+• Threat Modeling
 ```
 
 ---
@@ -209,13 +228,15 @@ A Flutter multiplayer word puzzle game.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/as4dmin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/as4dmin)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mdasadullahabbasi@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](YOUR_TRYHACKME)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-green?style=for-the-badge)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](YOUR_HTB)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -223,8 +244,8 @@ A Flutter multiplayer word puzzle game.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=100&section=footer"/>
 
-> **"Security is not a product, but a process." — Bruce Schneier**
+> **"First, solve the problem. Then, secure the solution."**
 
 </div>
