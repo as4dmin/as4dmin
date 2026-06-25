@@ -2,241 +2,188 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=220&section=header&text=Md%20Asadullah%20Abbasi&fontSize=55&fontColor=00C2FF&fontAlignY=38&desc=Application%20Security%20|%20Web%20Security%20|%20API%20Security&descAlignY=60&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Application+Security+Engineer+in+Progress;Web+Application+Security;API+Security+%7C+OWASP+Top+10;Secure+Code+Review;Python+Security+Automation;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Application+Security+Engineer+in+Progress;Web+Application+Security;API+Security;Secure+Code+Review;DevSecOps;Always+Learning+Always+Building"/>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C2FF)
+![](https://komarev.com/ghpvc/?username=as4dmin&style=flat-square&color=00C2FF)
 
 </div>
 
 ---
 
-# `$ whoami`
+# 👋 Hello, I'm Md Asadullah Abbasi
 
 ```yaml
-┌──────────────────────────────────────────────────────────────┐
-│                 MD ASADULLAH ABBASI                          │
-│                                                              │
-│ role        : Cyber Security Student                         │
-│ specialization : Application Security                        │
-│ education   : B.Tech CSE (Cyber Security)                    │
-│ college     : Haldia Institute of Technology                 │
-│ semester    : 8th Semester                                   │
-│ location    : Bihar, India 🇮🇳                                │
-│                                                              │
-│ interests:                                                   │
-│   • Application Security                                     │
-│   • Web Application Penetration Testing                      │
-│   • API Security                                             │
-│   • Secure Code Review                                       │
-│   • DevSecOps                                                │
-│                                                              │
-│ learning :                                                   │
-│   • OWASP Top 10                                             │
-│   • OWASP API Security                                       │
-│   • Secure SDLC                                              │
-│   • Threat Modeling                                          │
-│   • Cloud Security                                           │
-│                                                              │
-│ status : Open to Application Security Roles                  │
-└──────────────────────────────────────────────────────────────┘
+Name          : Md Asadullah Abbasi
+Role          : Cyber Security Student
+Specialization: Application Security
+College       : Haldia Institute of Technology
+Degree        : B.Tech CSE (Cyber Security)
+Semester      : 8th Semester
+Location      : Bihar, India
+
+Current Focus:
+- Application Security
+- Web Security
+- API Security
+- Secure Code Review
+- DevSecOps
+- Cloud Security
+
+Status:
+Open to AppSec, Product Security & Security Engineering roles.
 ```
 
 ---
 
-# `$ current_focus`
+# 🚀 About Me
 
-- 🔐 Learning Application Security
-- 🌐 Practicing Web & API Security
-- 🚩 Solving PortSwigger Web Security Academy Labs
-- 🛡️ Exploring Secure Code Review
-- ⚡ Learning DevSecOps Fundamentals
-- ☁️ Building Cloud Security Knowledge
-- 🐍 Developing Python Security Automation Tools
+I'm a Cyber Security student passionate about building secure applications and finding vulnerabilities before attackers do.
 
----
+My primary interests include:
 
-# `$ tech_stack`
+- 🔐 Application Security
+- 🌐 Web Application Security
+- 🔑 API Security
+- 🛡️ Secure Code Review
+- ☁️ Cloud Security
+- ⚙️ DevSecOps
+- 🐍 Python Security Automation
 
-<div align="center">
-
-## 🔴 Application Security
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![OWASP API](https://img.shields.io/badge/OWASP%20API-000000?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
-![ffuf](https://img.shields.io/badge/ffuf-111111?style=for-the-badge)
+Currently solving PortSwigger labs and continuously improving my AppSec skills.
 
 ---
 
-## 🟡 Security Tools
+# 🛠 Tech Stack
 
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+### Application Security
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+![OWASP API](https://img.shields.io/badge/API%20Security-black?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/ZAP-blue?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-181717?style=for-the-badge)
+
+### Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
----
+### Programming
 
-## 🔵 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+
+### DevSecOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## ☁️ DevSecOps & Cloud
+# 📂 Featured Projects
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+## 🔐 Vulnify
 
-</div>
-
----
-
-# `$ featured_projects`
-
-<details>
-<summary><b>🔐 Vulnify</b></summary>
-
-A vulnerable web application built for learning and practicing Web Application Security.
-
-### Features
+A vulnerable web application built for learning Application Security.
 
 - SQL Injection
-- Cross-Site Scripting (XSS)
+- XSS
 - CSRF
 - Authentication Vulnerabilities
 - OWASP Top 10
-- Secure Coding Demonstrations
-
-</details>
 
 ---
 
-<details>
-<summary><b>🔒 SSL/TLS Certificate Monitoring System</b></summary>
+## 🔒 SSL/TLS Certificate Monitoring System
 
-Python-based security tool for monitoring SSL certificate expiry.
+Python automation tool for monitoring SSL certificates.
 
-### Features
-
-- Certificate Expiry Detection
 - Domain Monitoring
+- Expiry Detection
 - Email Alerts
-- Automation
-- Reporting
-
-</details>
 
 ---
 
-<details>
-<summary><b>🌦 Weather App</b></summary>
+## 🌦 Weather App
 
-Flutter application using REST APIs.
+Flutter application consuming REST APIs.
 
 - Flutter
 - Firebase
 - REST APIs
-- Responsive UI
-
-</details>
 
 ---
 
-<details>
-<summary><b>🎮 Word Huddle Game</b></summary>
+## 🎮 Word Huddle Game
 
-A multiplayer Flutter word puzzle game.
+Multiplayer Flutter game.
 
 - Firebase
-- Responsive Design
+- Responsive UI
 - State Management
 
-</details>
+---
+
+# 📚 Currently Learning
+
+- Secure Code Review
+- PortSwigger Web Security Academy
+- Threat Modeling
+- DevSecOps
+- Cloud Security
+- Secure SDLC
 
 ---
 
-# `$ achievements`
-
-🏆 Top 10 Performer — ACS Internship Program
-
-🏅 Smart India Hackathon Grand Finalist
-
-🎓 Indo-Dutch Cyber Security School
-
-🛡️ Prodigy InfoTech Cyber Security Internship
-
-🚩 Active on TryHackMe
-
-💻 Active on HackTheBox
-
----
-
-# `$ github_stats`
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=as4dmin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as4dmin&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&currStreakLabel=00C2FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=as4dmin&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# `$ activity`
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=as4dmin&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-# `$ certifications`
-
-```bash
-✔ ACS Internship Program
-✔ Indo-Dutch Cyber Security School
-✔ Prodigy InfoTech Internship
-✔ SQL (Udemy)
-
-Currently Learning
-
-• Application Security
-• Secure Code Review
-• DevSecOps
-• Cloud Security
-• Threat Modeling
-```
-
----
-
-# `$ connect`
+# 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+<a href="https://github.com/as4dmin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+<a href="https://www.linkedin.com/in/as4dmin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](YOUR_TRYHACKME)
+<a href="https://profile.hackthebox.com/profile/019efebb-f632-7045-b226-179e81040e98">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](YOUR_HTB)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="mailto:mdasadullahabbasi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -244,8 +191,8 @@ Currently Learning
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=100&section=footer"/>
+### 💡 "Secure by Design. Secure by Default."
 
-> **"First, solve the problem. Then, secure the solution."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C2FF,100:0d1117&height=120&section=footer"/>
 
 </div>
